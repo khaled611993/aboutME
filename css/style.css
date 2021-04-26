@@ -1,0 +1,17 @@
+main{
+    background-color: rgb(96, 148, 245);
+}
+body{
+    background-color: rgb(206, 203, 199);
+}
+main article p{
+   color: rgb(235, 228, 227) ;
+   padding: 20px;
+   margin: 40px;
+   
+h1{ text-align : center ;
+
+}   
+footer{
+    text-align: center;
+}
